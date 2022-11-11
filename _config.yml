@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My name"
+title                    : "Leonardo Donà"
 title_separator          : "-"
 name                     : &name "My name"
-description              : &description "A personal description."
+description              : &description "Wonderer in the sea of data science."
 url                      : https://Leonardo-byte-bot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Leonardo-byte-bot.github.io"
